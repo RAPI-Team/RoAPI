@@ -1,5 +1,5 @@
 # RAPI
-**"WHere the future of executors begins.."**
+***"Where the future of executors begins.."***
 Haha! Sounds fun, right?
 
 >[WARNING]: Using exploits are prohibited as written in the Roblox ToS, we are not encouraging nor distributing exploits in any form of way, this API only brings basic help on when to update your roblox version or executor to match the roblox version, it is not 100% accurate (98% only)!
